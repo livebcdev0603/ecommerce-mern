@@ -9,6 +9,7 @@
 - Product pagination
 - Product search feature
 - User profile with orders
+- Security with Two Factor Authorization 
 - Admin product management
 - Admin user management
 - Admin Order details page
